@@ -13,5 +13,7 @@ public class BaseTest {
 		RestAssured.baseURI="http://localhost:9090";
 		RestAssured.basePath="/api/users/";
 		
+		// new code
+		
 	}
 }
